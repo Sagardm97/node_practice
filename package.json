@@ -1,0 +1,22 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Node workspace",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.8",
+    "mongoose": "^7.6.0",
+    "nodemon": "^3.0.1"
+  }
+}

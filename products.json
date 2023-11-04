@@ -1,0 +1,63 @@
+[
+    {
+      "company": "Apple",
+      "name": "iPhone 13",
+      "price": 999,
+      "feature": true
+    },
+    {
+      "company": "Samsung",
+      "name": "Galaxy S21",
+      "price": 899,
+      "feature": true
+    },
+    {
+      "company": "Google",
+      "name": "Pixel 6",
+      "price": 799,
+      "feature": true
+    },
+    {
+      "company": "Microsoft",
+      "name": "Surface Laptop 4",
+      "price": 1299,
+      "feature": true
+    },
+    {
+      "company": "Amazon",
+      "name": "Echo Dot",
+      "price": 49,
+      "feature": true
+    },
+    {
+      "company": "Tesla",
+      "name": "Model 3",
+      "price": 39999,
+      "feature": true
+    },
+    {
+      "company": "Sony",
+      "name": "PlayStation 5",
+      "price": 499,
+      "feature": true
+    },
+    {
+      "company": "Netflix",
+      "name": "Premium Subscription",
+      "price": 15.99,
+      "feature": true
+    },
+    {
+      "company": "Adobe",
+      "name": "Photoshop CC",
+      "price": 20.99,
+      "feature": true
+    },
+    {
+      "company": "Facebook",
+      "name": "Oculus Quest 2",
+      "price": 299,
+      "feature": true
+    }
+  ]
+  
